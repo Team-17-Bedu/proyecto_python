@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Equipo-17-orange">
   </a>
   <a href="https://github.com/Team-17-Bedu/r-postworks">
-    <img src="https:/img.shields.io/badge/Made%20with-Python-brightgreen">
+    <img src="https://img.shields.io/badge/Made%20with-Python-blue?logo=python">
   </a>
 </p>
 </p>

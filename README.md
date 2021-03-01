@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Equipo-17-orange">
   </a>
   <a href="https://github.com/Team-17-Bedu/r-postworks">
-    <img src="https:/img.shields.io/badge/Made%20with-Python-brightgreen">
+    <img src="https://img.shields.io/badge/Made%20with-Python-blue?logo=python">
   </a>
 </p>
 </p>
@@ -87,48 +87,91 @@ La ONU mantiene el uso del índice de desarrollo humano en su continuo trabajo p
 
 Estas preguntas son planteadas para poderlas respondes con la información que se obtenga del analisis del dataset. 
 
-* 1.-¿Cuáles son los mejores países con mejor IDH en mundo? 
+1. ¿Cuáles son los mejores países con mejor IDH en mundo? 
 
-* 2.-¿Cuál será el IDH en los mejores países de aquí a 5 años? 
+2. ¿Cuál será el IDH en los mejores países de aquí a 5 años? 
 
-* 3.-¿Cuál es el IDH en México actual? 
+3. ¿Cuál es el IDH en México actual? 
 
-* 4.-¿Cuál será el IDH de México aquí a 5 años? 
+4. ¿Cuál será el IDH de México aquí a 5 años? 
 
-* 5.-¿Qué factores se ven relacionados con el IDH? 
+5. ¿Qué factores se ven relacionados con el IDH? 
 
-* 6.-¿Cuál son los principales factores que afectan al IDH? 
+6. ¿Cuál son los principales factores que afectan al IDH? 
 
-* 7.-¿Hay alguna relación entre el IDH con algún factor regional o zona? 
+7. ¿Hay alguna relación entre el IDH con algún factor regional o zona? 
 
-* 8.-¿A qué se debe el bajo IDH en algunos países? 
+8. ¿A qué se debe el bajo IDH en algunos países? 
 
-* 9.-¿Hay alguna relación entre la cantidad de población con el IDH? 
+9. ¿Hay alguna relación entre la cantidad de población con el IDH? 
 
-* 10.-¿Hay alguna relación entre la educación con el IDH? 
+10. ¿Hay alguna relación entre la educación con el IDH? 
 
-* 11.-¿Hay alguna relación entre la esperanza de vida con el IDH? 
+11. ¿Hay alguna relación entre la esperanza de vida con el IDH? 
 
-* 12.-¿Hay alguna relación entre las oportunidades de empleo con el IDH? 
+12. ¿Hay alguna relación entre las oportunidades de empleo con el IDH? 
 
-* 13.-¿Cuáles son los otros factores relevantes que afecte el IDH? 
+13. ¿Cuáles son los otros factores relevantes que afecte el IDH? 
 
-* 14.-¿Cómo han cambiado el IDH atreves del tiempo? 
+14. ¿Cómo han cambiado el IDH atreves del tiempo? 
 
-* 15.-¿Los países en vía de desarrollo entre que rango está el IDH? 
+15. ¿Los países en vía de desarrollo entre que rango está el IDH? 
 
-* 16.-¿En latino América, cual es el mejor país? 
+16. ¿En latino América, cual es el mejor país? 
 
-* 17.-¿En América, cual es el mejor país? 
+17. ¿En América, cual es el mejor país? 
 
-* 18.-¿En Asia, cuáles es el mejor país? 
+18. ¿En Asia, cuáles es el mejor país? 
+    
+19. ¿En África, cual es el mejor país? 
 
-* 19.-¿En África, cual es el mejor país? 
+20. ¿En Europa, cual es el mejor país? 
 
-* 20.-¿En Europa, cual es el mejor país? 
+### Link del dataset 
 
 
-## Acerca de los colaboradores
+### Preguntas sobre el dataset 
+* ¿El conjunto de datos que tengo realmente me sirve para responder algunas de las preguntas que me planteé?. 
+<br>
+
+  - Respuesta: Sí, dado que las preguntas estan relacionadas conforme a la información que se puede obtener visualmente del dataset.  
+
+* ¿Qué tamaño tiene mi conjunto de datos? 
+   <br>
+    
+    * 764 filas y 61 columnas. 
+
+* ¿Serán datos suficientes?
+  <br>
+    
+    * Sí,porque estamos obtniendo el índice de desarrollo humano. 
+
+* ¿Qué columnas tengo y qué información tengo en cada una de esas columnas?
+  <br>
+      
+     * La expectativa del año, el ingreso per capita, la media educativa, maxima de escolaridad. 
+
+* Los nombres que tienen mis columnas, ¿son el nombre más apropiado?
+<br>
+
+    * No, algunas columnas no cuentan con nombre pero se les estara dando un nuevo nombre. 
+
+* ¿Qué tipos de datos tengo en cada columna? 
+<br>
+    
+    * Object, Float64, Int64.
+
+* ¿Parecen ser el tipo correcto de datos?
+<br>
+    
+    *No, hay datos que se tendran que convertir a tipo numerico. 
+
+* Si selecciono algunas filas al azar y las observo ¿estoy obteniendo los datos que debería? ¿o hay datos que parecen estar "sucios" o "incorrectos"?.
+<br>
+
+    * En algunas muestras si se llega obtener el valor esperado, mientras que otro es de manera distinta, ahi se tendra que analizar que hacer con ellos. 
+
+### Acerca de los colaboradores
 - [Elias Farias Abraham](https://github.com/Aabraham-Farias)
 - [Montiel Cardona Iván](https://github.com/begeistert)
 - [Tostado Blazquez Raul](https://github.com/RaulTostadoB)

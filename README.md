@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Equipo-17-orange">
   </a>
   <a href="https://github.com/Team-17-Bedu/r-postworks">
-    <img src="https://img.shields.io/badge/Made%20with-Python-blue?logo=python">
+        <img src="https://img.shields.io/badge/Made%20with-Python-blue?logo=python">
   </a>
 </p>
 </p>
@@ -152,22 +152,22 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
      * La expectativa del año, el ingreso per capita, la media educativa, maxima de escolaridad. 
 
 * Los nombres que tienen mis columnas, ¿son el nombre más apropiado?
-<br>
+  <br>
 
     * No, algunas columnas no cuentan con nombre pero se les estara dando un nuevo nombre. 
 
 * ¿Qué tipos de datos tengo en cada columna? 
-<br>
+  <br>
     
     * Object, Float64, Int64.
 
 * ¿Parecen ser el tipo correcto de datos?
-<br>
+  <br>
     
     *No, hay datos que se tendran que convertir a tipo numerico. 
 
 * Si selecciono algunas filas al azar y las observo ¿estoy obteniendo los datos que debería? ¿o hay datos que parecen estar "sucios" o "incorrectos"?.
-<br>
+  <br>
 
     * En algunas muestras si se llega obtener el valor esperado, mientras que otro es de manera distinta, ahi se tendra que analizar que hacer con ellos. 
 

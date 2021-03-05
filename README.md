@@ -45,7 +45,7 @@ El programa logrará que el estudiante obtenga la capacidad de tomar decisiones,
 * Investigación.
 
 ## Requerimientos
-* Jupyteer Notebook 
+* Jupyter Notebook 
 
 ## Introducción
 

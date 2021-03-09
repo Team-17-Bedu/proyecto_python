@@ -168,7 +168,6 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
 
     * En algunas muestras si se llega obtener el valor esperado, mientras que otro es de manera distinta, ahi se tendra que analizar que hacer con ellos. 
 
-<<<<<<< HEAD
 ### Dato curioso sobre el calculo del IDH
 
 Como se calcúlalo el Índice de Desarrollo Humano
@@ -196,10 +195,6 @@ $DimensionIndice = \frac{Valor Actual - Valor Mínimo}{Valor Máximo - Valor Mí
 La fórmula con lo que se calcula el HDI es la media geométrica de la siguiente operación:
 
 HDI = (I<sub>Salud</sub>*I<sub>Educacion</sub>*I<sub>Ingresos</sub>)<sup>1/3</sup> 
-=======
-### Link del dataset 
-Este es un enlace para redirigir a la libreta de jupyer principal donde viene lo que se realizo en este proyecto [NOTEBOOK](https://github.com/Team-17-Bedu/proyecto_python/blob/main/Notebooks/Indice%20de%20Desarrollo%20Humano.ipynb)
->>>>>>> 1c5a7d1ce77c9e79f18d05f372587548fa16bab6
 
 ### Acerca de los colaboradores
 - [Elias Farias Abraham](https://github.com/Aabraham-Farias)

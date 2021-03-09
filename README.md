@@ -196,6 +196,12 @@ La fórmula con lo que se calcula el HDI es la media geométrica de la siguiente
 
 HDI = (I<sub>Salud</sub>*I<sub>Educacion</sub>*I<sub>Ingresos</sub>)<sup>1/3</sup> 
 
+### Libreta de jupyter 
+Se encuentra un notebook principal con los pasos que se realizaron para la obtención de datos, limpieza, reestructura, dejar nuestro dataset listo y preparado para la siguiente fase.
+Routa del notebook: 
+[Notebook/Indice_de_Desarrollo_Humano.ipynb](https://github.com/Team-17-Bedu/proyecto_python/tree/main/Notebooks)
+
+
 ### Acerca de los colaboradores
 - [Elias Farias Abraham](https://github.com/Aabraham-Farias)
 - [Montiel Cardona Iván](https://github.com/begeistert)

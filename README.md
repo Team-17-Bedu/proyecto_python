@@ -171,6 +171,34 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
 
     * En algunas muestras si se llega obtener el valor esperado, mientras que otro es de manera distinta, ahi se tendra que analizar que hacer con ellos. 
 
+### Dato curioso sobre el calculo del IDH
+
+Como se calcúlalo el Índice de Desarrollo Humano
+
+Para el calculo del IDH se establecen los valores mínimos y máximos, con el fin de transformar los indicadores en un resultado entre el 0 y el 1. Donde los 0 representan los "ceros naturales" y los 1 representan las "metas operacionales". Para ello se establecen los siguientes valores:
+
+|Dimensiones| Indicador| Mínimo    |Máximo   |
+|-----------|---------|----------|---------|
+|Salud      |Expectativa de Vida en años|20 años   |85 años  |
+|Educación  |Expectativa de Escolaridad en años|0 años    |18 años  |
+|Educación  |Media de Escolaridad en años|0 años    |15 años  | 
+|Ingreso |Estándar de vida Ingresó Nacional Bruto per cápita (PPA en dólares de 2017)|100       |75,000   |
+
+
+La justificación de plantear que los "ceros naturales", o minimos, en la expectativa de vida sea de 20 años se basa en la evidencia histórica que ningún país en el siglo XXI tiene una expectativa menor a 20 años. Mientras que para la "meta aspiracional", o maximos, de la expectativa de vida es de 85 años, que es la meta aspiracional de los países en los  últimos 30 años.
+
+Las sociedades pueden subsistir sin educación formal, justificando los "ceros naturales" relacionados con la educación. Donde la máxima "meta aspiracional" es de 18 años, que es equivalente a obtener una maestría. Mientras _la máxima media de educación_ es de 15 años, y se espera que sea usada hasta el año 2025.
+
+El mínimo valor para el Ingreso Nacional Bruto per cápita es de $100, justificado de la considerable cantidad de producción no medida en economías cercanas al mínimo, que no se captura en datos oficiales. Mientras que el máximo se fija en $75,000. Kahneman Deaton(2010) ha demostrado que prácticamente no hay ganancia en el desarrollo humano y el bienestar en ingresos anuales superiores al $75,000.
+
+Teniendo establecidos los mínimos y los máximos, los índices de dimensión se calculan como:
+
+$DimensionIndice = \frac{Valor Actual - Valor Mínimo}{Valor Máximo - Valor Mínimo}$
+
+La fórmula con lo que se calcula el HDI es la media geométrica de la siguiente operación:
+
+HDI = (I<sub>Salud</sub>*I<sub>Educacion</sub>*I<sub>Ingresos</sub>)<sup>1/3</sup> 
+
 ### Acerca de los colaboradores
 - [Elias Farias Abraham](https://github.com/Aabraham-Farias)
 - [Montiel Cardona Iván](https://github.com/begeistert)
@@ -181,3 +209,6 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
 
 ## Licencia 
 Distribuido bajo la licencia MIT. Consulte `LICENCE` para obtener más información.
+
+
+

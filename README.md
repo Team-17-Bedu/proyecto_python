@@ -52,7 +52,7 @@ El programa logrará que el estudiante obtenga la capacidad de tomar decisiones,
 ### Identificación del problema: 
 
 <br>
-El ser humano siempre busca un mejor ambiente para desarrollarse. Buscando aquellos lugares donde pueda desarrollarse mejor económicamente, laboralmente y personalmente. Pero muchas veces por falta de información no se contemplan países donde hay excelentes oportunidades, y en todo caso tampoco se tiene una idea de aquellos países donde van a surgir estas nuevas oportunidades.
+El ser humano siempre busca un mejor ambiente para desarrollarse. Buscando aquellos lugares donde pueda  mejorar económicamente, laboralmente y personalmente. Pero muchas veces por falta de información no se contemplan países donde hay excelentes oportunidades, y en todo caso tampoco se tiene una idea de aquellos países donde van a surgir estas nuevas oportunidades.
 
 ### Investigación 
 
@@ -87,7 +87,7 @@ La ONU mantiene el uso del índice de desarrollo humano en su continuo trabajo p
 
 Estas preguntas son planteadas para poderlas respondes con la información que se obtenga del analisis del dataset. 
 
-1. ¿Cuáles son los mejores países con mejor IDH en mundo? 
+1. ¿Cuáles son los mejores países con mejor IDH en el mundo? 
 
 2. ¿Cuál será el IDH en los mejores países de aquí a 5 años? 
 
@@ -97,7 +97,7 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
 
 5. ¿Qué factores se ven relacionados con el IDH? 
 
-6. ¿Cuál son los principales factores que afectan al IDH? 
+6. ¿Cuáles son los principales factores que afectan al IDH? 
 
 7. ¿Hay alguna relación entre el IDH con algún factor regional o zona? 
 

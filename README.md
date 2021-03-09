@@ -131,7 +131,7 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
 * ¿El conjunto de datos que tengo realmente me sirve para responder algunas de las preguntas que me planteé?. 
 <br>
 
-  - Respuesta: Sí, dado que las preguntas estan relacionadas conforme a la información que se puede obtener visualmente del dataset.  
+   * Sí, dado que las preguntas estan relacionadas conforme a la información que se puede obtener visualmente del dataset.  
 
 * ¿Qué tamaño tiene mi conjunto de datos? 
    <br>

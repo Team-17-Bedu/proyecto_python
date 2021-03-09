@@ -199,7 +199,7 @@ HDI = (I<sub>Salud</sub>*I<sub>Educacion</sub>*I<sub>Ingresos</sub>)<sup>1/3</su
 ### Libreta de jupyter 
 Se encuentra un notebook principal con los pasos que se realizaron para la obtención de datos, limpieza, reestructura, dejar nuestro dataset listo y preparado para la siguiente fase.
 Routa del notebook: 
-[Notebook/Indice_de_Desarrollo_Humano.ipynb](https://github.com/Team-17-Bedu/proyecto_python/tree/main/Notebooks)
+[Notebook/Indice_de_Desarrollo_Humano.ipynb](https://github.com/Team-17-Bedu/proyecto_python/blob/main/Notebooks/Indice_de_Desarrollo_Humano.ipynb)
 
 
 ### Acerca de los colaboradores

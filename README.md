@@ -127,9 +127,6 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
 
 20. ¿En Europa, cual es el mejor país? 
 
-### Link del dataset 
-
-
 ### Preguntas sobre el dataset 
 * ¿El conjunto de datos que tengo realmente me sirve para responder algunas de las preguntas que me planteé?. 
 <br>
@@ -170,6 +167,9 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
   <br>
 
     * En algunas muestras si se llega obtener el valor esperado, mientras que otro es de manera distinta, ahi se tendra que analizar que hacer con ellos. 
+
+### Link del dataset 
+Este es un enlace para redirigir a la libreta de jupyer principal donde viene lo que se realizo en este proyecto [NOTEBOOK](https://github.com/Team-17-Bedu/proyecto_python/blob/main/Notebooks/Indice%20de%20Desarrollo%20Humano.ipynb)
 
 ### Acerca de los colaboradores
 - [Elias Farias Abraham](https://github.com/Aabraham-Farias)

@@ -52,7 +52,7 @@ El programa logrará que el estudiante obtenga la capacidad de tomar decisiones,
 ### Identificación del problema: 
 
 <br>
-El ser humano siempre busca un mejor ambiente para desarrollarse. Buscando aquellos lugares donde pueda desarrollarse mejor económicamente, laboralmente y personalmente. Pero muchas veces por falta de información no se contemplan países donde hay excelentes oportunidades, y en todo caso tampoco se tiene una idea de aquellos países donde van a surgir estas nuevas oportunidades.
+El ser humano siempre busca un mejor ambiente para desarrollarse. Buscando aquellos lugares donde pueda  mejorar económicamente, laboralmente y personalmente. Pero muchas veces por falta de información no se contemplan países donde hay excelentes oportunidades, y en todo caso tampoco se tiene una idea de aquellos países donde van a surgir estas nuevas oportunidades.
 
 ### Investigación 
 
@@ -87,7 +87,7 @@ La ONU mantiene el uso del índice de desarrollo humano en su continuo trabajo p
 
 Estas preguntas son planteadas para poderlas respondes con la información que se obtenga del analisis del dataset. 
 
-1. ¿Cuáles son los mejores países con mejor IDH en mundo? 
+1. ¿Cuáles son los mejores países con mejor IDH en el mundo? 
 
 2. ¿Cuál será el IDH en los mejores países de aquí a 5 años? 
 
@@ -97,7 +97,7 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
 
 5. ¿Qué factores se ven relacionados con el IDH? 
 
-6. ¿Cuál son los principales factores que afectan al IDH? 
+6. ¿Cuáles son los principales factores que afectan al IDH? 
 
 7. ¿Hay alguna relación entre el IDH con algún factor regional o zona? 
 
@@ -127,14 +127,11 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
 
 20. ¿En Europa, cual es el mejor país? 
 
-### Link del dataset 
-
-
 ### Preguntas sobre el dataset 
-* ¿El conjunto de datos que tengo realmente me sirve para responder algunas de las preguntas que me planteé?. 
-<br>
+* ¿El conjunto de datos que tengo realmente me sirve para responder algunas de las preguntas que me planteé?
+  <br>
 
-  - Respuesta: Sí, dado que las preguntas estan relacionadas conforme a la información que se puede obtener visualmente del dataset.  
+   * Sí, dado que las preguntas estan relacionadas conforme a la información que se puede obtener visualmente del dataset.  
 
 * ¿Qué tamaño tiene mi conjunto de datos? 
    <br>
@@ -164,13 +161,14 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
 * ¿Parecen ser el tipo correcto de datos?
   <br>
     
-    *No, hay datos que se tendran que convertir a tipo numerico. 
+    * No, hay datos que se tendran que convertir a tipo numerico. 
 
 * Si selecciono algunas filas al azar y las observo ¿estoy obteniendo los datos que debería? ¿o hay datos que parecen estar "sucios" o "incorrectos"?.
   <br>
 
     * En algunas muestras si se llega obtener el valor esperado, mientras que otro es de manera distinta, ahi se tendra que analizar que hacer con ellos. 
 
+<<<<<<< HEAD
 ### Dato curioso sobre el calculo del IDH
 
 Como se calcúlalo el Índice de Desarrollo Humano
@@ -198,6 +196,10 @@ $DimensionIndice = \frac{Valor Actual - Valor Mínimo}{Valor Máximo - Valor Mí
 La fórmula con lo que se calcula el HDI es la media geométrica de la siguiente operación:
 
 HDI = (I<sub>Salud</sub>*I<sub>Educacion</sub>*I<sub>Ingresos</sub>)<sup>1/3</sup> 
+=======
+### Link del dataset 
+Este es un enlace para redirigir a la libreta de jupyer principal donde viene lo que se realizo en este proyecto [NOTEBOOK](https://github.com/Team-17-Bedu/proyecto_python/blob/main/Notebooks/Indice%20de%20Desarrollo%20Humano.ipynb)
+>>>>>>> 1c5a7d1ce77c9e79f18d05f372587548fa16bab6
 
 ### Acerca de los colaboradores
 - [Elias Farias Abraham](https://github.com/Aabraham-Farias)

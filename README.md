@@ -128,8 +128,8 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
 20. ¿En Europa, cual es el mejor país? 
 
 ### Preguntas sobre el dataset 
-* ¿El conjunto de datos que tengo realmente me sirve para responder algunas de las preguntas que me planteé?. 
-<br>
+* ¿El conjunto de datos que tengo realmente me sirve para responder algunas de las preguntas que me planteé?
+  <br>
 
    * Sí, dado que las preguntas estan relacionadas conforme a la información que se puede obtener visualmente del dataset.  
 

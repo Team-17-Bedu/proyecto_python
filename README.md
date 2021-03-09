@@ -161,7 +161,7 @@ Estas preguntas son planteadas para poderlas respondes con la información que s
 * ¿Parecen ser el tipo correcto de datos?
   <br>
     
-    *No, hay datos que se tendran que convertir a tipo numerico. 
+    * No, hay datos que se tendran que convertir a tipo numerico. 
 
 * Si selecciono algunas filas al azar y las observo ¿estoy obteniendo los datos que debería? ¿o hay datos que parecen estar "sucios" o "incorrectos"?.
   <br>
